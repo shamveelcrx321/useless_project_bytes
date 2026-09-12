@@ -63,13 +63,12 @@ This shows the ultimate file sacrificial mood of Digambran forcing user to sacri
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/18gsKIbBepP0W10TsMOBxPD1jsE-JCcm_?usp=drive_link
+This video demonstrates working of Digambaran blocking downloads and after any sacrifice allow continuation of downloads.
 
 ## Team Contributions
-- Praveen A: Researching and 
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Praveen A: Researching and backend logic
+- Shamveel C: integration,chrome extension
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
