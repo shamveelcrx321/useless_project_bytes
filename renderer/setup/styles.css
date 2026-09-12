@@ -1,0 +1,75 @@
+:root {
+  --bg: #12110f;
+  --fg: #f2ead8;
+  --muted: #9a917f;
+  --accent: #c45c26;
+  --line: #2c2924;
+  --btn: #2a261f;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  background:
+    radial-gradient(900px 320px at 0% 0%, #2a2218 0%, transparent 55%),
+    var(--bg);
+  color: var(--fg);
+  font-family: "Segoe UI", "Candara", "Trebuchet MS", sans-serif;
+}
+
+.panel {
+  padding: 28px;
+}
+
+.brand {
+  margin: 0 0 18px;
+  letter-spacing: 0.28em;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+h1 {
+  margin: 0 0 12px;
+  font-size: 22px;
+}
+
+p, li {
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+ol {
+  padding-left: 18px;
+}
+
+code {
+  color: var(--fg);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+button {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--btn);
+  color: var(--fg);
+  padding: 10px 14px;
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+button.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #1a120c;
+  font-weight: 700;
+}
