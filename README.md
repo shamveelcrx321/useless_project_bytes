@@ -52,16 +52,14 @@ Chrome
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]
+<img src="https://github.com/shamveelcrx321/useless_project_bytes/blob/main/Screenshots/free.png">
+This show mercy mood of Digambaran allowing downloads freely.
 
-*This show mercy mood of Digambaran allowing downloads freely.*
-![Screenshot2]
+<img src="https://github.com/shamveelcrx321/useless_project_bytes/blob/main/Screenshots/time.png">
+This shows time sacrificial mood of Digambran forcing user to sacrifice 30 seconds of their time.
 
-*This shows time sacrificial mood of Digambran forcing user to sacrifice 30 seconds of their time.*
-
-![Screenshot3]
-
-*This shows the ultimate file sacrificial mood of Digambran forcing user to sacrifice a file in their device to continue download*
+<img src="https://github.com/shamveelcrx321/useless_project_bytes/blob/main/Screenshots/file.png">
+This shows the ultimate file sacrificial mood of Digambran forcing user to sacrifice a file in their device to continue download.
 
 ### Project Demo
 # Video
