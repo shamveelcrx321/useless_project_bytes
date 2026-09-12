@@ -2,47 +2,51 @@
 
 
 
-# [Project Name] 🎯
+# DIGAMBARAN 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Bytes
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Praveen A - NSS College of Engineering,Palakkad
+- Member 2: Shamveel C -  NSS College of Engineering,Palakkad
 
 ### Project Description
-[2-3 lines about what your project does]
+DIGAMBARAN is an intentionally useless Windows application that makes a simple task — downloading a file — unnecessarily difficult. Whenever you start a download in Chrome, Digambaran intercepts it and randomly decides whether to allow it, show mercy, make you wait, or demand a sacrifice. We built it because apparently downloading a file was too easy.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+We identified a serious problem nobody had:people can download things without making any sacrifices.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We solved the problem of downloading things without unnecessary suffering
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages:TypeScript/Javascript
+- Framework:Electron
+- Browser Integration: Chrome Extension
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- none
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm install
 
 # Run
-[commands]
+From project root
+npm run dev
+
+Chrome Extension Setup
+Chrome
+→ chrome://extensions
+→ Enable Developer Mode
+→ Load unpacked
+→ Select chrome-extension/
 
 ### Project Documentation
 For Software:
