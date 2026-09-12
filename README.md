@@ -51,7 +51,7 @@ Chrome
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img src="https://github.com/shamveelcrx321/useless_project_bytes/blob/main/Screenshots/free.png">
 This show mercy mood of Digambaran allowing downloads freely.
 
